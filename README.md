@@ -11,7 +11,6 @@
       <img src="https://img.shields.io/badge/(Formerly Twitter)-grey?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=josh76543210&style=flat-square&color=green" alt="" style="width: 120px; margin-right: 20px; margin-top: 20px;"/>
 </div>
 
 ### 👨‍💻 About Me :
@@ -32,6 +31,14 @@ My name is Josh and I am learning Web Development.
 
 ### 🔥 My Stats :
 
+<div id="header" align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=josh76543210&theme=dark&background=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh76543210&layout=compact&theme=vision-friendly-dark)
+
+</div>
+
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=josh76543210&style=flat-square&color=green" alt="" style="width: 120px; margin-right: 20px; margin-top: 20px;"/>
+</div>
